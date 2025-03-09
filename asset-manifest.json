@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Trademarkia/static/css/main.4614ab24.css",
+    "main.js": "/Trademarkia/static/js/main.cb878b53.js",
+    "static/js/453.b55de670.chunk.js": "/Trademarkia/static/js/453.b55de670.chunk.js",
+    "index.html": "/Trademarkia/index.html",
+    "main.4614ab24.css.map": "/Trademarkia/static/css/main.4614ab24.css.map",
+    "main.cb878b53.js.map": "/Trademarkia/static/js/main.cb878b53.js.map",
+    "453.b55de670.chunk.js.map": "/Trademarkia/static/js/453.b55de670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4614ab24.css",
+    "static/js/main.cb878b53.js"
+  ]
+}
